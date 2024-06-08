@@ -1,7 +1,7 @@
 # Welcome to My GitHub! 🌟
 
 ## Intro
-Hi there! I'm Nan Wroblewski, a passionate Fullstack Developer based in the United States. With over three years of experience in the industry, I have a solid background in the MERN tech stack altough I do like to branch out every so often!. My goal is to leverage my skills to create innovative web solutions and foster a collaborative and inclusive work environment.
+Hi there! I'm Nan Wroblewski, a passionate Fullstack Developer based in the United States. With over three years of experience in the industry, I have a solid background in the MERN tech stack altough I do like to branch out every so often! My goal is to leverage my skills to create innovative web solutions and foster a collaborative and inclusive work environment.
 
 ## Key Skills
 - **MERN Stack** (MongoDB, Express, React, Node)
